@@ -39,6 +39,5 @@ div{
 
 .col-xs-4{
     border-style: solid;
-    border-color: black;
-    margin-left: 50px;
+    border-color: darkgreen;
 }
