@@ -6,6 +6,7 @@ div{
     border-style: solid;
     border-color: black;
     padding: 20px;
+    background-color: black;
 }
 
 .row{
@@ -15,20 +16,20 @@ div{
 }
 
 .col-xs-6{
-    border-style: none;
+    border-style: solid;
     border-color: darkgreen;
     padding-right: 10px;
 }
 .col-xs-3{
     border-style: solid;
     border-color: darkgreen;
-    padding: 30px;
+    padding: 5px;
 }
 
 .col-xs-1{
     border-style: solid;
     border-color: darkgreen;
-    padding-right: 30px;
+    padding-right: 5px;
 }
 
 .col-xs-2{
